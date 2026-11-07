@@ -25,7 +25,8 @@ We created a small Altium script to solve a common PCB design annoyance: easily 
 - ![Example 2](https://github.com/user-attachments/assets/221cd296-dc60-4385-aeb4-7584803859e9)
 - ![Example 3](https://github.com/user-attachments/assets/bad12625-2d66-4d63-ad11-157c3fcf44d6)
 - ![Example 4](https://github.com/user-attachments/assets/a9e5117a-27fb-439b-a9e2-1d7c8287c4cf)
-
+![](images/2026-11-07-15-49-16.png)
+![](images/2026-11-07-15-49-49.png)
 ## Benefits
 
 - Saves time
